@@ -14,7 +14,7 @@ Este projeto tem como objetivo simular um site de previsão do tempo, utilizando
 - CSS3
 
 ## 📸 Prévia 
-### sem no mento
+### sem no momento
 
 ## 📚 Aprendizados
-### sem no mento
+### sem no momento
